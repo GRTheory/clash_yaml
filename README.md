@@ -1,0 +1,1 @@
+This repository is used for saving my YAML files of Clash. Because of not support the RULE-SET feature, I have to write my customized configuration file. 
