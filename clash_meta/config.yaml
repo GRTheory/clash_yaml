@@ -1,0 +1,6 @@
+mixed-port: 10808
+allow-lan: false
+external-controller: 127.0.0.1:11208
+secret: 123456
+log-level: info
+
