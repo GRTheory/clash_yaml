@@ -1,1 +1,4 @@
-This repository is used for saving my YAML files of Clash. Because of not support the RULE-SET feature, I have to write my customized configuration file. 
+# Repository
+This repository is used for saving my YAML files. 
+Because of the unsupported RULE-SET feature in the core version, 
+I have to write my customized configuration files. 
